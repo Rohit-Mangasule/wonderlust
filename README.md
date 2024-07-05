@@ -74,6 +74,6 @@ This is a full-stack web application built with Node.js, Express.js, and MongoDB
 - Register a new user or log in with existing credentials.
 - Perform CRUD operations as per the functionalities provided in the application.
 
-## Project Structure
+
 
 
