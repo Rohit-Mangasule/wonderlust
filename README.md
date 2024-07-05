@@ -38,8 +38,8 @@ This is a full-stack web application built with Node.js, Express.js, and MongoDB
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/major-project.git
-    cd major-project
+    git clone https://github.com/Rohit-Mangasule/wonderlust
+    
     ```
 
 2. **Install dependencies:**
