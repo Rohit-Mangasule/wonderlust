@@ -63,7 +63,7 @@ This is a full-stack web application built with Node.js, Express.js, and MongoDB
 4. **Run the application:**
 
     ```bash
-    npm start
+    node app.js
     ```
 
     The application should now be running on [http://localhost:3000](http://localhost:3000).
